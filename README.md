@@ -31,4 +31,4 @@ FINIX-MD Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
-<a href="https://chat.whatsapp.com/IGKecY3j1p9ANWys4QoNAs"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/GpRrSjzyxjD3NbMxO8936U"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
