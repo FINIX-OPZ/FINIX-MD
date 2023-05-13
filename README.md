@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Nfzh59B.jpeg" alt="GIF" width="300" height="300"/>
 
 
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+FINIX-MD Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
