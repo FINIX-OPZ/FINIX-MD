@@ -24,13 +24,6 @@
 
  
  
----
-# Deployment Methods
- <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
----
-## Click Here To Deploy
-
-<a href="https://queen-md-deploy.vercel.app/"><img src="https://www.clipartmax.com/png/full/135-1353963_click-here-button-free-click-here-button-png.png" alt="pngwing-com" width="350" border="0"></a>
 
 ---
 
