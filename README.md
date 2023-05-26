@@ -12,12 +12,12 @@
 </p>
 
 
- ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-MD?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-MD?style=social)
+ ![forks](https://img.shields.io/github/forks/FINIX-OPZ/QUEEN-UPDATE?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/FINIX-OPZ/QUEEN-UPDATE??style=social)
 
-![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-MD?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/DarkWinzo/Queen-MD?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
+![size](https://img.shields.io/github/repo-size/FINIX-OPZ/QUEEN-UPDATE??color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/FINIX-OPZ/QUEEN-UPDATE??color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=FINIX%20OPZ&color=purple&style=plastic)
  
  <p align="center"><img src="https://profile-counter.glitch.me/{FINIX-OPZ}/count.svg" alt="FINIX-OPZ :: Visitor's Count" /></p>
 
