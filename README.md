@@ -11,8 +11,6 @@ Finix-md - Simple whatsapp Multi Device whatsapp bot.
 
 2. Fork
     <br>
-  
-
 <a href='https://github.com/FINIX-OPZ/FINIX-MD/fork' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/-Fork-black?style=for-the-badge&logo=github&logoColor=white'/></a>
 
 
