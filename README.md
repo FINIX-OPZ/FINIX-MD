@@ -33,9 +33,10 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 <a href='https://chat.whatsapp.com/JKUmxKHecQ5E1V5X0L0WG1' target="_blank"><img alt='GROUP LINK' src='https://img.shields.io/badge/-Join-black?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 
 2. plugin
-
    <br>
-
 <a href='https://github.com/Lokixeypz/FINIX-MD-PLUGINS' target="_blank"><img alt='PLUGINS' src='https://img.shields.io/badge/-Plugin-black?style=for-the-badge&logo=github&logoColor=white'/></a>
+ 
+
+
 
  
