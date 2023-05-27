@@ -1,5 +1,5 @@
 {
-  "name": "Queen-MD",
+  "name": "Finix-md",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -8,21 +8,21 @@
     "start": "node index.js"
   },
   "keywords": [
-    "Queen-MD",
-    "queen",
+    "Finix-md",
+    "finix",
     "whatsapp",
     "wabase-md",
-    "darkwinzo",
+    "loki&eypz",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "DarkWinzo",
+  "author": "LOKI&EYPZ",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys": "^4.4.0",
-        "@adiwajshing/baileys2": "npm:queen-ytdl-core",
+        "@adiwajshing/baileys2": "npm:finix-ytdl-core",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@adiwajshing/keyed-db2": "github:DarkWinzo/queen-yt-search",
         "awesome-phonenumber": "^2.64.0",
