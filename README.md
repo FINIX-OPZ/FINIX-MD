@@ -1,5 +1,5 @@
 #### FINIX MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+Finix-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
