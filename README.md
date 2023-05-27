@@ -23,7 +23,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 1. Group link
     <br>
-<a href='https://chat.whatsapp.com/JKUmxKHecQ5E1V5X0L0WG1' target="_blank"><img alt='SUPPORT' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href='https://chat.whatsapp.com/JKUmxKHecQ5E1V5X0L0WG1' target="_blank"><img alt='GROUP LINK' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 
 
 
