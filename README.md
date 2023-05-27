@@ -37,7 +37,7 @@
 # CLICK FORK TO REPO
 
 
-<a href="https://github.com/FINIX-OPZ/QUEEN-UPDATE/fork"><img title="QUEEN-UPDATE" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
+<a href="https://github.com/FINIX-OPZ/FINIX-MD/fork"><img title="FINIX-MD" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
 -- 
 
  
@@ -46,9 +46,9 @@
  
 ### ***Deploy on Heroku***
 
-<a href="https://heroku.com/deploy?template=https://github.com/FINIX-OPZ/QUEEN-UPDATE "><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/FINIX-OPZ/FINIX-MD "><img title=FINIX-OPZ src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
 ---
  
  
 
-The Queen is made available under the [MIT License](https://github.com/DarkWinzo/Queen-MD/blob/main/LICENCE). 
+The Queen is made available under the [MIT License](https://github.com/FINIX-OPZ/FINIX-MD/blob/main/LICENCE). 
