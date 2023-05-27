@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+FINIX-MD;Multi+Device+Whatsapp+Bot;Coded+By+FINIX+OPZ" alt="Typing SVG" /></a>
 
  
- 
+ <img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
 
  
  
