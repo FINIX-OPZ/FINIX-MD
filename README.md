@@ -10,10 +10,11 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 <a href='https://finix-qr--finix-opz.repl.co/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Fork
-
-    <br>
+   <br>
+  
 
 <a href='https://github.com/FINIX-OPZ/FINIX-MD/fork' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/-Fork-black?style=for-the-badge&logo=github&logoColor=white'/></a>
+
 
 
 #### DEPLOY TO HEROKU 
