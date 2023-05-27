@@ -1,7 +1,7 @@
 {
         "name": "FINIX-MD",
 	"description": "Finix-md WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
+	"repository": "https://github.com/FINIX-OPZ/FINIX-MD",
 	"logo": "https://i.imgur.com/eFeTqtn.jpeg",
 	"keywords": ["multi-device","FINIX-MD","LOKI&EYPZ"],
   "stack": "container",
@@ -29,7 +29,7 @@
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "972525656438"
 		},
 		"PACK_NAME": {
 			"description": "Add pack name here",
