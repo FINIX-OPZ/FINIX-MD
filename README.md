@@ -1,4 +1,4 @@
-#### HERMIT MD WHATSAPP BOT
+#### FINIX MD WHATSAPP BOT
 Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
@@ -19,18 +19,12 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-#### DEPLOY TO KOYEB 
+#### SUPPORT
 
-1. If You don't have a account in koyeb. Create a account.
+1. Group link
     <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://chat.whatsapp.com/JKUmxKHecQ5E1V5X0L0WG1' target="_blank"><img alt='SUPPORT' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
 
-4. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
-2. Now Deploy
-    <br>
-<a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
-***
-<a href="https://chat.whatsapp.com/Czc4zb42smmHIkso3Od0ir"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ 
