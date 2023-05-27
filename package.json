@@ -84,10 +84,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
+    "url": "git+https://github.com/FINIX-OPZ/FINIX-MD"
   },
   "bugs": {
-    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
+    "url": "https://github.com/FINIX-OPZ/FINIX-MD/issues"
   },
-  "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
+  "homepage": "https://github.com/FINIX-OPZ/FINIX-MD#readme"
 }
